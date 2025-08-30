@@ -15,5 +15,5 @@
     "mineflayer": "^4.3.0",
     "mineflayer-pathfinder": "^2.1.1"
   },
- "packageManager": "yarn@3.6.0"
+ "packageManager": "yarn@1.22.22"
 }
